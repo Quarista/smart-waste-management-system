@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "938398765208",
+    "firebase_url": "https://dustbin-management-system-default-rtdb.firebaseio.com",
+    "project_id": "dustbin-management-system",
+    "storage_bucket": "dustbin-management-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938398765208:android:fb64338da45b102fd080ed",
+        "android_client_info": {
+          "package_name": "com.example.swms_administration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyLgsBF4DaG-b6Xxf1K1qgeBM3MjVnc38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
