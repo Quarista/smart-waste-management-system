@@ -1,0 +1,2 @@
+C:/Users/thara/Desktop/Yudhe/Quarista/Dust Bin/SLIoT/swms_administration/android/app/.cxx/RelWithDebInfo/631yl6qm/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/thara/Desktop/Yudhe/Quarista/Dust Bin/SLIoT/swms_administration/android/app/.cxx/RelWithDebInfo/631yl6qm/arm64-v8a/CMakeFiles/rebuild_cache.dir
