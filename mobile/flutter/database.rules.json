@@ -1,0 +1,30 @@
+{
+  "rules": {
+    ".read": "auth == null || auth != null",
+    ".write": "auth == null || auth != null"
+//    "secretData": {
+//      ".write": "auth != null && auth.token.role === 'admin'" // Change Token to validated user tokens.
+//    }
+  }
+}
+
+/*These are not needed for now*/
+
+//    "data" {
+//      "$encryptedId" {
+//        ".write": "newData.val().timeout > 0 && newData.val().extend > 0"
+//      }
+//    }
+
+
+// Def (test)
+
+//{
+//  "auth": null,
+//  "resource": {
+//    "key": "value"
+//  },
+//  "path": "/",
+//  "method": "get",
+//  "time": "2025-03-11T14:34:55.382Z"
+//}
